@@ -29,7 +29,7 @@ The aim of the project is to analyze online retail store data to answer to follo
 ### Top 10 highest revenue generating products 
 ![image](https://github.com/user-attachments/assets/510b702d-0ad9-4d2e-a63f-9647ab295956)
  
- ### Top 5 highest selling products in each region:
+ ### Top 5 highest selling products in each region
  ![image](https://github.com/user-attachments/assets/fee240cb-afce-4873-8412-056b4f2f6cc8)
 
  ### Month Over month growth comparison for 2022 & 2023
