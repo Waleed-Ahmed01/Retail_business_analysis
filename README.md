@@ -29,16 +29,16 @@ The aim of the project is to analyze online retail store data to answer to follo
 ### Top 10 highest revenue generating products 
 ![image](https://github.com/user-attachments/assets/510b702d-0ad9-4d2e-a63f-9647ab295956)
  
- ### Top 5 highest selling products in each region
+### Top 5 highest selling products in each region
  ![image](https://github.com/user-attachments/assets/fee240cb-afce-4873-8412-056b4f2f6cc8)
 
- ### Month Over month growth comparison for 2022 & 2023
+### Month Over month growth comparison for 2022 & 2023
  ![image](https://github.com/user-attachments/assets/503a8c25-4368-45ab-9127-ef54d5a3d84c)
 
- ### For each category which month had highest sales
+### For each category which month had highest sales
  ![image](https://github.com/user-attachments/assets/dbb44924-80a6-4288-a774-d813467990a6)
 
- ### Profit growth for product sub-categories from highest to lowest (2022 to 2023)
+### Profit growth for product sub-categories from highest to lowest (2022 to 2023)
  ![image](https://github.com/user-attachments/assets/70d66bed-93b4-4ae4-8feb-14782c973f5f)
 
 
