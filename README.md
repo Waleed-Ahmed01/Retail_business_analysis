@@ -1,16 +1,16 @@
 # Analyzing Online Retail Business Performance
 ## Insights required:
-The aim of the project is to analyze online retail store data to answer to following business questions:
- 1)top 10 highest revenue generating products 
- 2)top 5 highest selling products in each region
- 3)month over month growth comparison for 2022 and 2023 sales
- 4)for each category which month had highest sales 
- 5)which sub category had highest growth by profit from 2022 to 2023
+The aim of the project is to analyze online retail store data to answer to following business questions: <br />
+ 1)top 10 highest revenue generating products <br />
+ 2)top 5 highest selling products in each region <br />
+ 3)month over month growth comparison for 2022 and 2023 sales <br />
+ 4)for each category which month had highest sales <br />
+ 5)which sub category had highest growth by profit from 2022 to 2023<br />
  
 ## Methodology:
-*Data has been extracted from Kaggle using Kaggle API into Jupyter notebook, for cleaning and pre processing using pandas. 
-*The cleaned data frame is then imported to MS SQL server Database using SQLAlchemy which is a Python SQL toolkit that allows developers to access and manage SQL databases using Pythonic domain language. 
-*SQL queries have been used to answer business questions making use of aggregations, CTEs, Case statements and window functions.
+*Data has been extracted from Kaggle using Kaggle API into Jupyter notebook, for cleaning and pre processing using pandas. <br />
+*The cleaned data frame is then imported to MS SQL server Database using SQLAlchemy which is a Python SQL toolkit that allows developers to access and manage SQL databases using Pythonic domain language. <br />
+*SQL queries have been used to answer business questions making use of aggregations, CTEs, Case statements and window functions. <br />
 ### Retail Orders data imported from Kaggle through API & extracted from zip file into data frame
 ![image](https://github.com/user-attachments/assets/34d0bcf9-88a0-4d24-a5fe-f3df835f14b0)
 
