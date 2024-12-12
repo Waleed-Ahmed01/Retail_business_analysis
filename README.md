@@ -20,4 +20,35 @@ The aim of the project is to analyze online retail store data to answer to follo
 ### Creation of new columns: ‘discount’,’sale_price’,’profit’ and conversion of order-date to date data type
 ![image](https://github.com/user-attachments/assets/5f1e84f8-b0da-4c28-aec1-0b246164f9b6)
 
+### Creating Table schema in SQL server with required columns, data types and lengths
+![image](https://github.com/user-attachments/assets/515057b8-4ec9-4e7e-b750-a838028fa96b)
+
+### Using SQL alchemy to export data from python data frame to ORDERS table in master database of SQL Server
+![image](https://github.com/user-attachments/assets/34718937-e155-45b4-8970-5abde8e56ff6)
+
+### Top 10 highest revenue generating products 
+![image](https://github.com/user-attachments/assets/510b702d-0ad9-4d2e-a63f-9647ab295956)
+ 
+ ### Top 5 highest selling products in each region:
+ ![image](https://github.com/user-attachments/assets/fee240cb-afce-4873-8412-056b4f2f6cc8)
+
+ ### Month Over month growth comparison for 2022 & 2023
+ ![image](https://github.com/user-attachments/assets/503a8c25-4368-45ab-9127-ef54d5a3d84c)
+
+ ### For each category which month had highest sales
+ ![image](https://github.com/user-attachments/assets/dbb44924-80a6-4288-a774-d813467990a6)
+
+ ### Profit growth for product sub-categories from highest to lowest (2022 to 2023)
+ ![image](https://github.com/user-attachments/assets/70d66bed-93b4-4ae4-8feb-14782c973f5f)
+
+
+
+
+ 
+
+
+
+
+
+
 
